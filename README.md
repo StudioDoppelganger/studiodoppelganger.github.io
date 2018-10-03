@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
             alt="version"></a>
     <a href="https://studiodoppelganger.github.io/">
-        <img src="https://img.shields.io/badge/studiodoppelganger-working-green.svg"
+        <img src="https://img.shields.io/badge/知るかボケ-working-green.svg"
             alt="status"></a>
     <a href="https://studiodoppelganger.github.io/">
         <img src="https://img.shields.io/badge/update-on hold -FFA500.svg"
